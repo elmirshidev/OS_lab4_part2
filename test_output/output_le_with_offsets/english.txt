@@ -1,0 +1,5 @@
+This is an English text file.
+It contains multiple lines of text.
+This file will be encrypted using Fernet.
+Students must decrypt it using the per-file key.
+This is an updated version for the new archive format.

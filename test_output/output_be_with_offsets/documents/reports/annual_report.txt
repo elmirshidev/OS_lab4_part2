@@ -1,0 +1,5 @@
+This is a deeply nested file in the directory structure.
+It tests the utility's ability to recreate directory hierarchies.
+This will also be encrypted with Fernet to test nested directory encryption.
+This is an updated version with more detailed information.
+The archive format now supports more file types and processing methods.

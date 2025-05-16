@@ -1,0 +1,3 @@
+This is a deeply nested file in the directory structure.
+It tests the utility's ability to recreate directory hierarchies.
+This will also be encrypted with Fernet to test nested directory encryption.
