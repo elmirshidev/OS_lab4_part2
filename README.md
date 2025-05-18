@@ -15,7 +15,7 @@ A Python utility to parse, decrypt, and extract files from custom binary archive
 1. Clone the repository:
 ```bash
 git clone https://github.com/elmirshidev/OS_lab4_part2.git
-cd os-lab4
+cd OS_lab4_part2
 ```
 
 2. Install dependencies:
