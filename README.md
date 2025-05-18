@@ -10,12 +10,11 @@ A Python utility to parse, decrypt, and extract files from custom binary archive
 
 ## Requirements
 - Python 3.8+
-- VirtualBox (for network setup)
 
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/os-lab4.git
+git clone https://github.com/elmirshidev/OS_lab4_part2.git
 cd os-lab4
 ```
 
@@ -27,7 +26,7 @@ pip install cryptography zlib lzma
 ## Usage
 Basic command:
 ```bash
-python archextract.py -i <input_file> -o <output_dir> [-v LEVEL]
+python script.py -i <input_file> -o <output_dir> [-v LEVEL]
 ```
 
 Options:
